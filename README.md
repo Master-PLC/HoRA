@@ -1,2 +1,2 @@
-# MoLA
-official implementation of "MoLA: Overcoming the Expressiveness Bottleneck in Multi-Step Time Series Forecasting"
+# SRP
+official implementation of "On the Necessity of Step-Specific Representation Learning for Multi-Step Forecasting"

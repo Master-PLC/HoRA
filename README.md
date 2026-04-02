@@ -1,2 +1,2 @@
-# SRP
-official implementation of "On the Necessity of Step-Specific Representation Learning for Multi-Step Forecasting"
+# HoRA
+official implementation of "Multi-Step Forecasting Needs Horizon-Conditioned Representation Adaptation"
